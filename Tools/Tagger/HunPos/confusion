@@ -1,0 +1,892 @@
+NN	963
+NN	929
+ADJD	7
+ADJA	2
+VVINF	2
+NE	21
+FM	1
+VVFIN	1
+
+NN	number	.sg	626
+.sg	608
+.pl	18
+
+NN	number	.pl	297
+.sg	18
+.pl	278
+.*	1
+
+NN	number	.*	6
+.sg	3
+.*	3
+
+NN	gender	.fem	412
+.fem	402
+.masc	7
+.neut	3
+
+NN	gender	.masc	275
+.fem	4
+.masc	262
+.*	1
+.neut	8
+
+NN	gender	.*	14
+.fem	3
+.masc	3
+.*	8
+
+NN	gender	.neut	228
+.fem	7
+.masc	14
+.neut	207
+
+NN	case	.gen	130
+.gen	92
+.acc	7
+.nom	8
+.*	1
+.dat	22
+
+NN	case	.acc	245
+.gen	9
+.acc	157
+.nom	48
+.*	1
+.dat	30
+
+NN	case	.nom	258
+.gen	1
+.acc	68
+.nom	171
+.dat	18
+
+NN	case	.*	5
+.acc	1
+.nom	1
+.*	3
+
+NN	case	.dat	291
+.gen	4
+.acc	25
+.nom	16
+.dat	246
+
+KOKOM	21
+KOKOM	13
+PWAV	2
+KON	5
+APPR	1
+
+XY	7
+NN	2
+XY	2
+ADJD	1
+NE	1
+CARD	1
+
+PDAT	20
+PDAT	16
+PIAT	1
+PDS	3
+
+PDAT	number	.sg	13
+.sg	13
+
+PDAT	number	.pl	3
+.sg	1
+.pl	2
+
+PDAT	gender	.fem	6
+.fem	6
+
+PDAT	gender	.masc	3
+.masc	2
+.neut	1
+
+PDAT	gender	.neut	7
+.neut	7
+
+PDAT	case	.gen	2
+.gen	2
+
+PDAT	case	.acc	4
+.acc	4
+
+PDAT	case	.nom	4
+.acc	1
+.nom	3
+
+PDAT	case	.dat	6
+.dat	6
+
+ART	501
+ART	496
+PRELS	1
+PIS	3
+CARD	1
+
+ART	number	.sg	398
+.sg	391
+.pl	7
+
+ART	number	.pl	96
+.sg	11
+.pl	85
+
+ART	number	.*	2
+.sg	1
+.*	1
+
+ART	gender	.fem	218
+.fem	212
+.masc	4
+.*	1
+.neut	1
+
+ART	gender	.masc	152
+.fem	3
+.masc	143
+.*	1
+.neut	5
+
+ART	gender	.*	13
+.fem	2
+.masc	1
+.*	10
+
+ART	gender	.neut	113
+.fem	6
+.masc	11
+.neut	96
+
+ART	case	.gen	100
+.gen	85
+.acc	1
+.nom	2
+.dat	12
+
+ART	case	.acc	141
+.acc	119
+.nom	18
+.dat	4
+
+ART	case	.nom	159
+.gen	1
+.acc	31
+.nom	126
+.dat	1
+
+ART	case	.*	3
+.nom	1
+.*	1
+.dat	1
+
+ART	case	.dat	93
+.gen	2
+.acc	7
+.nom	2
+.dat	82
+
+ADJD	165
+NN	1
+ADJD	156
+ADV	2
+VVPP	1
+VVFIN	5
+
+ADJD	degree	.pos	143
+.pos	142
+.comp	1
+
+ADJD	degree	.sup	1
+.sup	1
+
+ADJD	degree	.comp	12
+.pos	1
+.comp	11
+
+VAPP	5
+VAPP	5
+
+ADJA	323
+NN	5
+ADJD	2
+ADJA	305
+VVINF	1
+NE	2
+PPOSAT	1
+PIAT	1
+PIS	1
+VVFIN	5
+
+ADJA	number	.sg	188
+.sg	177
+.pl	11
+
+ADJA	number	.pl	117
+.sg	19
+.pl	98
+
+ADJA	gender	.fem	154
+.fem	137
+.masc	8
+.neut	9
+
+ADJA	gender	.masc	71
+.fem	10
+.masc	55
+.*	1
+.neut	5
+
+ADJA	gender	.*	1
+.masc	1
+
+ADJA	gender	.neut	79
+.fem	13
+.masc	11
+.neut	55
+
+ADJA	degree	.pos	294
+.pos	288
+.comp	6
+
+ADJA	degree	.sup	6
+.sup	6
+
+ADJA	degree	.comp	5
+.comp	5
+
+ADJA	case	.gen	49
+.gen	37
+.nom	3
+.dat	9
+
+ADJA	case	.acc	67
+.acc	47
+.nom	17
+.dat	3
+
+ADJA	case	.nom	98
+.acc	39
+.nom	58
+.dat	1
+
+ADJA	case	.dat	91
+.gen	4
+.acc	8
+.nom	2
+.dat	77
+
+$(	140
+ADJD	5
+$(	129
+VVINF	2
+VVPP	1
+$.	1
+VVFIN	2
+
+PAV	25
+ADV	1
+PAV	22
+PTKVZ	1
+VVFIN	1
+
+PRF	43
+PRF	40
+PPER	3
+
+PRF	number	.sg	27
+.sg	27
+
+PRF	number	.pl	13
+.sg	1
+.pl	12
+
+PRF	person	.1	4
+.1	4
+
+PRF	person	.3	36
+.3	36
+
+PRF	case	.acc	32
+.acc	30
+.dat	2
+
+PRF	case	.dat	8
+.acc	6
+.dat	2
+
+PTKVZ	34
+NN	1
+ADV	2
+PTKVZ	30
+PTKZU	1
+
+PRELS	45
+ART	1
+PRELS	40
+PWS	2
+PWAT	2
+
+PRELS	number	.sg	27
+.sg	25
+.pl	2
+
+PRELS	number	.pl	13
+.sg	5
+.pl	8
+
+PRELS	gender	.fem	18
+.fem	15
+.masc	3
+
+PRELS	gender	.masc	12
+.masc	11
+.neut	1
+
+PRELS	gender	.*	3
+.fem	2
+.*	1
+
+PRELS	gender	.neut	7
+.fem	2
+.neut	5
+
+PRELS	case	.acc	7
+.acc	5
+.nom	2
+
+PRELS	case	.nom	29
+.acc	3
+.nom	26
+
+PRELS	case	.dat	4
+.dat	4
+
+PPOSAT	33
+PPOSAT	33
+
+PPOSAT	number	.sg	20
+.sg	20
+
+PPOSAT	number	.pl	13
+.sg	1
+.pl	12
+
+PPOSAT	gender	.fem	20
+.fem	19
+.neut	1
+
+PPOSAT	gender	.masc	6
+.masc	5
+.neut	1
+
+PPOSAT	gender	.neut	7
+.fem	1
+.masc	2
+.*	1
+.neut	3
+
+PPOSAT	case	.gen	3
+.gen	3
+
+PPOSAT	case	.acc	12
+.acc	9
+.nom	3
+
+PPOSAT	case	.nom	8
+.acc	3
+.nom	5
+
+PPOSAT	case	.dat	10
+.acc	1
+.dat	9
+
+FM	6
+NE	5
+FM	1
+
+$,	322
+$,	320
+$.	2
+
+PPER	142
+PPER	142
+
+PPER	number	.sg	100
+.sg	96
+.pl	4
+
+PPER	number	.pl	39
+.sg	4
+.pl	35
+
+PPER	number	.*	3
+.pl	2
+.*	1
+
+PPER	gender	.fem	25
+.fem	19
+.masc	1
+.*	5
+
+PPER	gender	.masc	30
+.fem	1
+.masc	28
+.*	1
+
+PPER	gender	.*	61
+.fem	4
+.masc	3
+.*	53
+.neut	1
+
+PPER	gender	.neut	26
+.fem	1
+.neut	25
+
+PPER	person	.1	42
+.1	42
+
+PPER	person	.2	3
+.2	1
+.3	2
+
+PPER	person	.3	97
+.3	97
+
+PPER	case	.acc	18
+.acc	13
+.nom	5
+
+PPER	case	.nom	109
+.acc	2
+.nom	106
+.dat	1
+
+PPER	case	.dat	15
+.acc	2
+.dat	13
+
+PIAT	45
+ADV	6
+PIAT	35
+PIS	4
+
+PIAT	number	.sg	10
+.sg	10
+
+PIAT	number	.pl	24
+.sg	1
+.pl	23
+
+PIAT	number	.*	1
+.pl	1
+
+PIAT	gender	.fem	15
+.fem	14
+.neut	1
+
+PIAT	gender	.masc	10
+.fem	1
+.masc	8
+.neut	1
+
+PIAT	gender	.*	1
+.masc	1
+
+PIAT	gender	.neut	9
+.fem	2
+.masc	2
+.neut	5
+
+PIAT	case	.gen	4
+.gen	4
+
+PIAT	case	.acc	11
+.acc	9
+.nom	2
+
+PIAT	case	.nom	6
+.nom	6
+
+PIAT	case	.*	1
+.gen	1
+
+PIAT	case	.dat	13
+.acc	1
+.dat	12
+
+$.	258
+$,	1
+$.	257
+
+VMINF	3
+VMINF	3
+
+TRUNC	7
+TRUNC	7
+
+VMFIN	33
+VMFIN	33
+
+VMFIN	number	.sg	21
+.sg	21
+
+VMFIN	number	.pl	12
+.pl	12
+
+VMFIN	mood	.subj	3
+.subj	3
+
+VMFIN	mood	.ind	30
+.ind	30
+
+VMFIN	person	.1	4
+.1	4
+
+VMFIN	person	.3	29
+.3	29
+
+VMFIN	tense	.pres	22
+.pres	22
+
+VMFIN	tense	.past	11
+.past	11
+
+PTKZU	36
+PTKZU	34
+APPR	2
+
+VVFIN	267
+NN	1
+ADJD	2
+ADJA	1
+VVINF	12
+VVPP	7
+VMFIN	1
+VVFIN	243
+
+VVFIN	number	.sg	189
+.sg	189
+
+VVFIN	number	.pl	54
+.sg	1
+.pl	53
+
+VVFIN	mood	.subj	3
+.subj	3
+
+VVFIN	mood	.ind	240
+.subj	2
+.ind	238
+
+VVFIN	person	.1	25
+.1	6
+.3	19
+
+VVFIN	person	.2	1
+.3	1
+
+VVFIN	person	.3	217
+.3	217
+
+VVFIN	tense	.pres	144
+.pres	144
+
+VVFIN	tense	.past	99
+.pres	2
+.past	97
+
+PTKNEG	25
+PTKNEG	25
+
+CARD	32
+CARD	32
+
+ADV	282
+NN	2
+ADV	272
+ADJD	6
+VVFIN	1
+APPR	1
+
+PIDAT	1
+PIAT	1
+
+PWAV	9
+PWAV	9
+
+KOUI	8
+KOUI	8
+
+PDS	21
+PDAT	2
+ART	3
+ADJA	1
+PDS	15
+
+PDS	number	.sg	13
+.sg	13
+
+PDS	number	.pl	2
+.pl	2
+
+PDS	gender	.fem	1
+.fem	1
+
+PDS	gender	.masc	4
+.masc	4
+
+PDS	gender	.*	1
+.*	1
+
+PDS	gender	.neut	9
+.neut	9
+
+PDS	case	.acc	1
+.acc	1
+
+PDS	case	.nom	14
+.nom	14
+
+VVIZU	6
+VVIZU	5
+VVFIN	1
+
+KOUS	53
+KOUS	50
+ADJD	1
+PWAV	2
+
+VVINF	70
+VVINF	63
+VVPP	1
+VVFIN	6
+
+VVPP	100
+ADJD	5
+VVPP	91
+VVFIN	4
+
+KON	194
+ADV	2
+KON	192
+
+VAINF	11
+VAFIN	1
+VAINF	10
+
+PWS	6
+PRELS	2
+PWS	3
+PWAT	1
+
+PWS	number	.sg	3
+.sg	3
+
+PWS	gender	.*	1
+.masc	1
+
+PWS	gender	.neut	2
+.neut	2
+
+PWS	case	.acc	2
+.nom	2
+
+PWS	case	.nom	1
+.nom	1
+
+APPR	338
+KOKOM	1
+NN	1
+ADJD	1
+ADV	2
+APPRART	1
+NE	1
+KON	2
+KOUI	2
+APPR	326
+PTKA	1
+
+APPRART	79
+APPRART	79
+
+APPRART	number	.sg	79
+.sg	79
+
+APPRART	gender	.fem	25
+.fem	25
+
+APPRART	gender	.masc	27
+.masc	22
+.neut	5
+
+APPRART	gender	.neut	27
+.masc	1
+.neut	26
+
+APPRART	case	.dat	79
+.dat	79
+
+NE	78
+NN	8
+ADJD	1
+ADJA	3
+NE	66
+
+NE	number	.sg	62
+.sg	59
+.*	3
+
+NE	number	.pl	4
+.pl	4
+
+NE	gender	.fem	17
+.fem	12
+.masc	2
+.*	3
+
+NE	gender	.masc	3
+.masc	3
+
+NE	gender	.*	18
+.masc	4
+.*	14
+
+NE	gender	.neut	28
+.fem	1
+.*	4
+.neut	23
+
+NE	case	.gen	5
+.gen	3
+.nom	2
+
+NE	case	.acc	5
+.nom	2
+.dat	3
+
+NE	case	.nom	28
+.nom	28
+
+NE	case	.*	1
+.dat	1
+
+NE	case	.dat	27
+.nom	5
+.*	3
+.dat	19
+
+APZR	4
+ADV	2
+PTKVZ	2
+
+VAFIN	139
+VAFIN	136
+VAINF	3
+
+VAFIN	number	.sg	97
+.sg	96
+.pl	1
+
+VAFIN	number	.pl	39
+.pl	39
+
+VAFIN	mood	.subj	7
+.subj	7
+
+VAFIN	mood	.ind	129
+.subj	1
+.ind	128
+
+VAFIN	person	.1	5
+.1	3
+.3	2
+
+VAFIN	person	.2	1
+.3	1
+
+VAFIN	person	.3	130
+.3	130
+
+VAFIN	tense	.pres	103
+.pres	103
+
+VAFIN	tense	.past	33
+.pres	1
+.past	32
+
+PRELAT	3
+PRELAT	3
+
+PRELAT	number	.sg	1
+.sg	1
+
+PRELAT	number	.pl	2
+.pl	2
+
+PRELAT	gender	.fem	1
+.fem	1
+
+PRELAT	gender	.masc	2
+.fem	1
+.masc	1
+
+PRELAT	case	.gen	3
+.gen	3
+
+PIS	43
+ADV	1
+ADJA	2
+PIAT	4
+PIS	36
+
+PIS	number	.sg	31
+.sg	31
+
+PIS	number	.pl	2
+.sg	1
+.pl	1
+
+PIS	number	.*	3
+.sg	1
+.*	2
+
+PIS	gender	.fem	3
+.fem	3
+
+PIS	gender	.masc	5
+.masc	5
+
+PIS	gender	.*	21
+.masc	1
+.*	18
+.neut	2
+
+PIS	gender	.neut	7
+.neut	7
+
+PIS	case	.acc	4
+.acc	3
+.nom	1
+
+PIS	case	.nom	25
+.nom	25
+
+PIS	case	.*	3
+.*	2
+.dat	1
+
+PIS	case	.dat	4
+.dat	4
+
+ITJ	3
+NN	3
+
+PTKA	6
+APPRART	1
+PTKA	4
+APPR	1
+

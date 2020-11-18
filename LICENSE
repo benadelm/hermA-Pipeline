@@ -1,0 +1,399 @@
+hermA Licence
+=============
+
+Everyone is permitted to copy and distribute verbatim copies
+of this licence document, but changing it is not allowed.
+
+Preamble
+--------
+
+This is the licence for software developed in the research
+project hermA at the University of Hamburg. It is based on the
+Mozilla Public License 2.0, but with the following difference:
+
+The software is intended for non-commercial, non-profit use only,
+like in a private or academic context: This licence does not allow
+you to exploit it for making money.
+
+To ensure that thise requirement is not circumvented and the
+legal protection remains in place, this licence is a so-called
+copyleft licence: It requires everyone to retain all the conditions
+imposed by this licence when passing on or modifying the software.
+However, this licence is not intended to limit your freedom to
+choose desirable terms for your own software. Therefore, unlike
+strong copyleft licences like the GNU General Public License, it
+does not require you to publish your own code under the same
+licence if it is built on this software.
+
+A record of the differences to the Mozilla Public License
+and the precise terms of this licence follow.
+
+Modifications Compared to the Mozilla Public License
+----------------------------------------------------
+- section 2.1 (Grants): changed (no selling)
+- section 2.4 (Subsequent Licenses): deleted;
+  2.5, 2.6 and 2.7 become 2.4, 2.5 and 2.6
+- section 3.1 (Distribution of Source Form): extended
+- section 3.2 (Distribution of Executable Form): changed
+- section 3.3 (Distribution of a Larger Work): changed
+- section 3.5 (Application of Additional Terms): becomes 3.6
+- new section 3.5 (Non-Commercial, Non-Profit Use Only)
+- section 5.1 (Termination): extended
+- sections 6 (Disclaimer of Warranty): extended
+- sections 7 (Limitation of Liability): extended
+- section 8 (Litigation): extended
+- section 9 (Miscellaneous): extended
+- section 10 (Versions of the License): retained only 10.3
+  (as new section 10)
+- definitions 1.5 and 1.12: removed because not needed anymore;
+  1.6 to 1.11 become 1.5 to 1.10; 1.13 and 1.14 become 1.11 and 1.12
+- excluded selling from definition of Patent Claims
+
+1. Definitions
+--------------
+
+1.1. "Contributor"
+    means each individual or legal entity that creates, contributes to
+    the creation of, or owns Covered Software.
+
+1.2. "Contributor Version"
+    means the combination of the Contributions of others (if any) used
+    by a Contributor and that particular Contributor's Contribution.
+
+1.3. "Contribution"
+    means Covered Software of a particular Contributor.
+
+1.4. "Covered Software"
+    means Source Code Form to which the initial Contributor has attached
+    the notice in Exhibit A, the Executable Form of such Source Code
+    Form, and Modifications of such Source Code Form, in each case
+    including portions thereof.
+
+1.5. "Executable Form"
+    means any form of the work other than Source Code Form.
+
+1.6. "Larger Work"
+    means a work that combines Covered Software with other material, in
+    a separate file or files, that is not Covered Software.
+
+1.7. "Licence"
+    means this document.
+
+1.8. "Licensable"
+    means having the right to grant, to the maximum extent possible,
+    whether at the time of the initial grant or subsequently, any and
+    all of the rights conveyed by this Licence.
+
+1.9. "Modifications"
+    means any of the following:
+
+    (a) any file in Source Code Form that results from an addition to,
+        deletion from, or modification of the contents of Covered
+        Software; or
+
+    (b) any new file in Source Code Form that contains any Covered
+        Software.
+
+1.10. "Patent Claims" of a Contributor
+    means any patent claim(s), including without limitation, method,
+    process, and apparatus claims, in any patent Licensable by such
+    Contributor that would be infringed, but for the grant of the
+    Licence, by the making, using, having made, import, or transfer
+    of either its Contributions or its Contributor Version.
+
+1.11. "Source Code Form"
+    means the form of the work preferred for making modifications.
+
+1.12. "You" (or "Your")
+    means an individual or a legal entity exercising rights under this
+    Licence. For legal entities, "You" includes any entity that
+    controls, is controlled by, or is under common control with You. For
+    purposes of this definition, "control" means (a) the power, direct
+    or indirect, to cause the direction or management of such entity,
+    whether by contract or otherwise, or (b) ownership of more than
+    fifty percent (50%) of the outstanding shares or beneficial
+    ownership of such entity.
+
+2. Licence Grants and Conditions
+--------------------------------
+
+2.1. Grants
+
+Each Contributor hereby grants You a world-wide, royalty-free,
+non-exclusive licence:
+
+(a) under intellectual property rights (other than patent or trademark)
+    Licensable by such Contributor to use, reproduce, make available,
+    modify, display, perform, distribute, and otherwise exploit its
+    Contributions, either on an unmodified basis, with Modifications, or
+    as part of a Larger Work
+
+(b) under Patent Claims of such Contributor to make, use, have made,
+    import, and otherwise transfer either its Contributions or its
+    Contributor Version.
+
+2.2. Effective Date
+
+The licences granted in Section 2.1 with respect to any Contribution
+become effective for each Contribution on the date the Contributor first
+distributes such Contribution.
+
+2.3. Limitations on Grant Scope
+
+The licences granted in this Section 2 are the only rights granted under
+this Licence. No additional rights or licences will be implied from the
+distribution or licensing of Covered Software under this Licence.
+No patent licence is granted by a Contributor:
+
+(a) for any code that a Contributor has removed from Covered Software;
+    or
+
+(b) for infringements caused by: (i) Your and any other third party's
+    modifications of Covered Software, or (ii) the combination of its
+    Contributions with other software (except as part of its Contributor
+    Version); or
+
+(c) under Patent Claims infringed by Covered Software in the absence of
+    its Contributions.
+
+This Licence does not grant any rights in the trademarks, service marks,
+or logos of any Contributor (except as may be necessary to comply with
+the notice requirements in Section 3.4).
+
+2.4. Representation
+
+Each Contributor represents that the Contributor believes its
+Contributions are its original creation(s) or it has sufficient rights
+to grant the rights to its Contributions conveyed by this Licence.
+
+2.5. Fair Use
+
+This Licence is not intended to limit any rights You have under
+applicable copyright doctrines of fair use, fair dealing, or other
+equivalents.
+
+2.6. Conditions
+
+Sections 3.1, 3.2, 3.3, and 3.4 are conditions of the licences granted
+in Section 2.1.
+
+3. Responsibilities
+-------------------
+
+3.1. Distribution of Source Form
+
+All distribution of Covered Software in Source Code Form, including any
+Modifications that You create or to which You contribute, must be under
+the terms of this Licence. You must inform recipients that the Source
+Code Form of the Covered Software is governed by the terms of this
+Licence, and You must provide them with a copy of this Licence. You
+may not attempt to alter or restrict the recipients' rights in the
+Source Code Form.
+
+If You create any Modifications to Covered Software, You must prominently
+declare that you modified something, what you modified, and when you
+modified it. The information when you modified Covered Software must be
+precise enough that the order of all modifications can be unambiguously
+reconstructed. It should include at least the year of modification.
+
+3.2. Distribution of Executable Form
+
+If You distribute Covered Software in Executable Form then:
+
+(a) such Covered Software must also be made available in Source Code
+    Form, as described in Section 3.1, and You must inform recipients of
+    the Executable Form how they can obtain a copy of such Source Code
+    Form by reasonable means in a timely manner, at no charge; and
+
+(b) You may distribute such Executable Form only under the terms of
+    this Licence.
+
+3.3. Distribution of a Larger Work
+
+You may create and distribute a Larger Work provided that Covered
+Software remains under this licence, but the parts of the Larger Work
+that are not Covered Software may be under terms of Your choice.
+
+3.4. Notices
+
+You may not remove or alter the substance of any licence notices
+(including copyright notices, patent notices, disclaimers of warranty,
+or limitations of liability) contained within the Source Code Form of
+the Covered Software, except that You may alter any licence notices to
+the extent required to remedy known factual inaccuracies.
+
+3.5. Non-Commercial, Non-Profit Use Only
+
+You may not charge any price or fee for Covered Software or make any
+profit or gain any benefit in terms of money from Your permission to
+reproduce, make available, distribute or otherwise exploit Covered
+Software. In particular, You may not sell Covered Software.
+
+You may charge a fee for Your own efforts working on and with Covered
+Software, such as running Covered Software on behalf of someone else,
+carrying out requested modifications, or creating a Larger Work,
+provided that You unasked and unambiguously communicate that any prices
+You charge do not pertain to Covered Software, that Covered Software can
+be obtained free of charge, and where it can be obtained. Under this
+condition You may also sell those parts of a Larger Work that are not
+Covered Software, but you may not sell any parts that are Covered
+Software, including any modifications You have made.
+
+3.6. Application of Additional Terms
+
+You may choose to offer, and to charge a fee for, warranty, support,
+indemnity or liability obligations to one or more recipients of Covered
+Software. However, You may do so only on Your own behalf, and not on
+behalf of any Contributor. You must make it absolutely clear that any
+such warranty, support, indemnity, or liability obligation is offered by
+You alone, and You hereby agree to indemnify every Contributor for any
+liability incurred by such Contributor as a result of warranty, support,
+indemnity or liability terms You offer. You may include additional
+disclaimers of warranty and limitations of liability specific to any
+jurisdiction.
+
+4. Inability to Comply Due to Statute or Regulation
+---------------------------------------------------
+
+If conditions are imposed on You (whether by court order, agreement or
+otherwise) that contradict the conditions of this Licence, they do not
+excuse You from the conditions of this Licence. If you cannot perform
+an action without violating either the terms of this Licence or any
+other obligations, then as a consequence you may not perform that action
+at all. For example, if you agree to terms that obligate you to collect
+a royalty for further distributing from those to whom you distribute
+Covered Software, the only way to satisfy both those terms and this
+Licence would be to refrain entirely from distributing Covered Software.
+
+5. Termination
+--------------
+
+5.1. The rights granted under this Licence will terminate automatically
+if You fail to comply with any of its terms. However, if You become
+compliant, then the rights granted under this Licence from a particular
+Contributor are reinstated (a) provisionally, unless and until such
+Contributor explicitly and finally terminates Your grants, and (b) on an
+ongoing basis, if such Contributor fails to notify You of the
+non-compliance by some reasonable means prior to 60 days after You have
+come back into compliance. Moreover, Your grants from a particular
+Contributor are reinstated on an ongoing basis if such Contributor
+notifies You of the non-compliance by some reasonable means, this is the
+first time You have received notice of non-compliance with this Licence
+from such Contributor, and You become compliant prior to 30 days after
+Your receipt of the notice. If all Your rights under this Licence
+terminate, You agree to cease use and distribution of Covered Software
+as soon as reasonably practicable.
+
+5.2. If You initiate litigation against any entity by asserting a patent
+infringement claim (excluding declaratory judgment actions,
+counter-claims, and cross-claims) alleging that a Contributor Version
+directly or indirectly infringes any patent, then the rights granted to
+You by any and all Contributors for the Covered Software under Section
+2.1 of this Licence shall terminate.
+
+5.3. In the event of termination under Sections 5.1 or 5.2 above, all
+end user licence agreements (excluding distributors and resellers) which
+have been validly granted by You or Your distributors under this Licence
+prior to termination shall survive termination.
+
+************************************************************************
+*                                                                      *
+*  6. Disclaimer of Warranty                                           *
+*  -------------------------                                           *
+*                                                                      *
+*  Covered Software is provided under this Licence on an "as is"       *
+*  basis, without warranty of any kind, either expressed, implied, or  *
+*  statutory, including, without limitation, warranties that the       *
+*  Covered Software is free of defects, merchantable, fit for a        *
+*  particular purpose or non-infringing. The entire risk as to the     *
+*  quality and performance of the Covered Software is with You,        *
+*  including, but not limited to, the risks and costs of program       *
+*  errors, compliance with applicable laws, damage to or loss of       *
+*  data, programs or equipment, and unavailability or interruption of  *
+*  operations.                                                         *
+*  Should any Covered Software prove defective in any respect, You     *
+*  (not any Contributor) assume the cost of any necessary servicing,   *
+*  repair, or correction. This disclaimer of warranty constitutes an   *
+*  essential part of this Licence. No use of any Covered Software is   *
+*  authorized under this Licence except under this disclaimer.         *
+*                                                                      *
+************************************************************************
+
+************************************************************************
+*                                                                      *
+*  7. Limitation of Liability                                          *
+*  --------------------------                                          *
+*                                                                      *
+*  Under no circumstances and under no legal theory, whether tort      *
+*  (including negligence), contract, or otherwise, shall any           *
+*  Contributor, or anyone who distributes Covered Software as          *
+*  permitted above, be liable to You for any direct, indirect,         *
+*  special, incidental, or consequential damages of any character      *
+*  including, without limitation, damages for lost profits, loss of    *
+*  goodwill, loss of data or data being rendered inaccurate, work      *
+*  stoppage, computer failure or malfunction, failure of the program   *
+*  to operate with any other programs, criminal prosecution directly   *
+*  or indirectly caused by the use of the program, or any and all      *
+*  other damages or losses, even if such party shall have been         *
+*  informed of the possibility of such damages. This limitation of     *
+*  liability shall not apply to liability for death or personal        *
+*  injury resulting from such party's negligence to the extent         *
+*  applicable law prohibits such limitation. Some jurisdictions do     *
+*  not allow the exclusion or limitation of incidental or              *
+*  consequential damages, so this exclusion and limitation may not     *
+*  apply to You.                                                       *
+*                                                                      *
+************************************************************************
+
+8. Litigation
+-------------
+
+Any litigation relating to this Licence may be brought only in the
+courts of a jurisdiction where the defendant maintains its principal
+place of business and such litigation shall be governed by laws of that
+jurisdiction, without reference to its conflict-of-law provisions.
+Nothing in this Section shall prevent a party's ability to bring
+cross-claims or counter-claims.
+
+If the defendant is a Contributor, such a litigation relating to this
+Licence may be brought only in the courts of a jurisdiction where the
+defendant maintained its principal place of business at the point in
+time when that Contributor's Contribution was made. Such litigation
+shall be governed by laws of that jurisdiction, without reference to
+its conflict-of-law provisions.
+
+9. Miscellaneous
+----------------
+
+This Licence represents the complete agreement concerning the subject
+matter hereof. Except as expressly stated above, You receive no rights
+or licences to the intellectual property of any Contributor under this
+Licence, whether expressly, by implication or otherwise. All rights in
+Covered Software not expressly granted under this Licence are reserved.
+No third-party beneficiary rights are created under this Licence.
+
+If any provision of this Licence is held to be
+unenforceable, such provision shall be reformed only to the extent
+necessary to make it enforceable. Any law or regulation which provides
+that the language of a contract shall be construed against the drafter
+shall not be used to construe this Licence against a Contributor.
+
+10. Modified Versions
+---------------------
+
+If you create software not governed by this Licence, and you want to
+create a new licence for such software, you may create and use a
+modified version of this Licence if you rename the licence.
+
+Exhibit A - Source Code Form Licence Notice
+-------------------------------------------
+
+  This Source Code Form is subject to the terms of the hermA Licence.
+  If a copy of the licence was not distributed with this file, You have
+  received this Source Code Form in a manner that does not comply with
+  the terms of the licence.
+
+If it is not possible or desirable to put the notice in a particular
+file, then You may include the notice in a location (such as a LICENSE
+file in a relevant directory) where a recipient would be likely to look
+for such a notice.
