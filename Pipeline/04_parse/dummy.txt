@@ -1,0 +1,12 @@
+1	Das	der	_	PDS	case=nom|gender=neut|number=sg	2	SUBJ	_	_
+2	ist	sein	_	VAFIN	mood=ind|number=sg|person=3|tense=pres	0	S	_	_
+3	ein	ein	_	ART	case=nom|gender=masc|number=sg	4	DET	_	_
+4	Beispielsatz	Beispielsatz	_	NN	case=nom|gender=masc|number=sg	2	PRED	_	_
+5	.	.	_	$.	_	0	ROOT	_	_
+
+1	Das	der	_	PDS	case=nom|gender=neut|number=sg	2	SUBJ	_	_
+2	ist	sein	_	VAFIN	mood=ind|number=sg|person=3|tense=pres	0	S	_	_
+3	ein	ein	_	ART	case=nom|gender=masc|number=sg	5	DET	_	_
+4	anderer	anderer	_	ADJA	case=nom|degree=pos|gender=masc|number=sg	5	ATTR	_	_
+5	Beispielsatz	Beispielsatz	_	NN	case=nom|gender=masc|number=sg	2	PRED	_	_
+6	.	.	_	$.	_	0	ROOT	_	_

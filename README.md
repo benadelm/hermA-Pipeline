@@ -70,6 +70,8 @@ Side note: The part-of-speech tag embedding `Tools/Parser/Sticker/embeddings/pos
 
 Before running the pipeline, the `Pipeline` directory should be empty except for sub-directories (that is, there should be no files, neither in the directory itself nor in some sub-directory). The shell script `clear.sh` can be used to delete all files in the relevant directories, **including input and output directory** (so please make sure first your input and output files have been saved elsewhere).
 
+Currently there are dummy files in (the sub-directories of) the `Pipeline` directory because Git ignores empty folders. The dummy files are also an example of possible pipeline input and output. Before using the pipeline you should delete these files (for instance by invoking `clear.sh`).
+
 To run the pipeline, put raw texts (UTF-8 plain text files) to be processed in the `Pipeline/00_input` directory. Then run `bash Pipeline.sh`.
 
 The pipeline stages are processed one after the other, so first all files in the input directory are tokenized, then (after all of them have been tokenized) all tokenized texts are tagged, and so on. The final output (after the dependency parsing step) will be written to the `Pipeline/04_parse` directory. File names, including extensions, are not changed, so the files in the output directory will have exactly the same names as the corresponding input files. Pipeline stage outputs are aggregated, so the parser output also contains the part-of-speech tags, morphological annotations and lemmata.

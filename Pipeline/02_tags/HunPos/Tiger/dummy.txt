@@ -1,0 +1,13 @@
+Das	PRO.Dem.Subst.-.Nom.Sg.Neut	
+ist	VFIN.Aux.3.Sg.Pres.Ind	
+ein	ART.Indef.Nom.Sg.Masc	
+Beispielsatz	N.Reg.Nom.Sg.Masc	
+.	SYM.Pun.Sent	
+
+Das	PRO.Dem.Subst.-.Nom.Sg.Neut	
+ist	VFIN.Aux.3.Sg.Pres.Ind	
+ein	ART.Indef.Nom.Sg.Masc	
+anderer	ADJA.Pos.Nom.Sg.Masc	
+Beispielsatz	N.Reg.Nom.Sg.Masc	
+.	SYM.Pun.Sent	
+

@@ -1,0 +1,13 @@
+1	Das	der	_	PDS	number=sg|gender=neut|case=nom	_	_	_	_
+2	ist	sein	_	VAFIN	number=sg|mood=ind|person=3|tense=pres	_	_	_	_
+3	ein	ein	_	ART	number=sg|gender=masc|case=nom	_	_	_	_
+4	Beispielsatz	Beispielsatz	_	NN	number=sg|gender=masc|case=nom	_	_	_	_
+5	.	.	_	$.	_	_	_	_	_
+
+1	Das	der	_	PDS	number=sg|gender=neut|case=nom	_	_	_	_
+2	ist	sein	_	VAFIN	number=sg|mood=ind|person=3|tense=pres	_	_	_	_
+3	ein	ein	_	ART	number=sg|gender=masc|case=nom	_	_	_	_
+4	anderer	anderer	_	ADJA	number=sg|gender=masc|degree=pos|case=nom	_	_	_	_
+5	Beispielsatz	Beispielsatz	_	NN	number=sg|gender=masc|case=nom	_	_	_	_
+6	.	.	_	$.	_	_	_	_	_
+
