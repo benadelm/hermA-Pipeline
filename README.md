@@ -46,7 +46,9 @@ RFTagger can be downloaded [here](https://www.cis.uni-muenchen.de/~schmid/tools/
 
 ### HunPos
 
-HunPos can be downloaded [here](https://code.google.com/archive/p/hunpos/downloads). Unpack the file and copy the `hunpos-tag` binary to the `Tools/Tagger/HunPos` directory. A model is provided with this repository.
+Compile [HunPos](https://github.com/mivoq/hunpos) according to the instructions given there. Copy the `hunpos-tag` binary (from `install/bin` or where it has been created) to the `Tools/Tagger/HunPos` directory. A model is provided with this repository.
+
+Already compiled binaries of HunPos are available [here](https://code.google.com/archive/p/hunpos/downloads), but they are quite old (from 2007) and may not work properly with current operating systems.
 
 ### Tag converter
 
