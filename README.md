@@ -62,7 +62,7 @@ Compile [this converter](https://github.com/benadelm/GermanPOSTagConverter) to a
 
 Obtain sticker from the [repository](https://github.com/stickeritis/sticker). There are some [releases](https://github.com/stickeritis/sticker/releases); the models provided here have been created with [the version 0.10.0 release](https://github.com/stickeritis/sticker/releases/tag/0.10.0), so try that release if a newer version does not work.
 
-After cloning/downloading the repository and compiling sticker, or after unpacking the release download, respectively, place the `sticker` binary (`sticker-0.10.0-x86_64-unknown-linux-gnu/sticker` for the Linux version of the version 0.10.0 release) in the `Tools/Parser/Sticker` directory. Do the same for the files starting with `libtensorflow` (`libtensorflow.so` and so on). Note that some of these files are softlinks.
+After cloning/downloading the repository and compiling sticker, or after unpacking the release download, respectively, place the `sticker` binary (`sticker-0.10.0-x86_64-unknown-linux-gnu/sticker` for the Linux version of the version 0.10.0 release) in the `Tools/Parser/Sticker` directory. Do the same for the files starting with `libtensorflow` (`libtensorflow.so` and so on). Note that some of these files are [softlinks](https://en.wikipedia.org/wiki/Symbolic_link).
 
 Download [these](https://github.com/stickeritis/sticker-models/releases/tag/de-structgram-20190426-opq) German word embeddings and place them in the `Tools/Parser/Sticker/embeddings` directory. The file name should be `de-structgram-20190426-opq.fifu` (or you will have to adjust line 7 of `Tools/Parser/Sticker/dep.conf`). The `.asc` file is not needed.
 
